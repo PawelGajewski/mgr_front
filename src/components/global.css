@@ -1,0 +1,61 @@
+.form_container {
+    background-color: #fff;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px 0px ;
+    position: absolute;
+    top: 20vh;
+    height: auto;
+}
+
+.bg {
+
+    /* background-color: rgb(253, 126, 76); */
+    background-color: #fcf2e9; 
+}
+
+
+.mini_img_singlerec {
+    width: 100px;
+    height: 100px;
+}
+
+nav.navbar-nav:hover {
+    color: red;
+}
+
+/* width */
+::-webkit-scrollbar {
+    width: 10px;
+  }
+  
+  /* Track */
+  ::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 5px grey;
+    border-radius: 10px;
+  }
+  
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: gray;
+    border-radius: 10px;
+  }
+
+  .navbar {
+    background-color: red;
+  }
+
+.menu-hover:hover {
+  background-color: black;
+  border-radius: 1px;
+}
+
+.group-hover {
+  text-decoration: none;
+}
+
+.group-hover:hover {
+  background-color: rgb(233, 227, 224);
+  cursor: pointer;
+  text-decoration: none;
+}
